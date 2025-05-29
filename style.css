@@ -48,5 +48,11 @@ p{
     color: #5f564d;
     line-height: 150%;
     margin-bottom: 32px;
-    
+
+} 
+
+.tempo {
+    background-color: #fff7fb;
+    padding: 28px;
+    border-radius: 12px;
 }
